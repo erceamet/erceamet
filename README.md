@@ -7,8 +7,6 @@
 
 I'm a student at the University of Essex studying Computer Science.
 
-Web: https://erce.codes/
-
 🌱 I’m currently learning TypeScript
 
 **Languages and Tools:**
