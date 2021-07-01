@@ -5,9 +5,7 @@
 
 ### Hi there 👋
 
-I'm a student at the University of Essex studying Computer Science.
-
-🌱 I’m currently learning TypeScript
+I'm a Computer Science graduate from the University of Essex.
 
 **Languages and Tools:**
 
